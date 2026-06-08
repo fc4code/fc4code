@@ -1,10 +1,10 @@
 # Olá, eu sou o Felipe Corrêa 👋
 
-### Engenheiro de Software | Arquitetura Backend, Automações B2B & AI-Assisted Development
+### Engenheiro de Software | Arquitetura Backend e Automações
 
-Sou um desenvolvedor focado em construir arquiteturas de software escaláveis, seguras e orientadas a regras de negócio complexas. Através do desenvolvimento aumentado por Inteligência Artificial (AI-Assisted Engineering), possuo a capacidade de projetar e entregar o ciclo de vida completo de aplicações de nível Enterprise em tempo recorde.
+Sou um desenvolvedor focado em construir arquiteturas de software escaláveis, seguras e orientadas a regras de negócio complexas. Possuo a capacidade de projetar e entregar o ciclo de vida completo de aplicações de nível Enterprise.
 
-Minha vivência prática me permite traduzir necessidades reais, como o fluxo de almoxarifado e maquinário do setor de logística e agro, ou o rigor burocrático e processual do setor jurídico — em APIs modernas, ecossistemas multi-tenant e integrações de alta performance. Também possuo forte base em lógica de baixo nível, arquitetura de servidores de alta concorrência e ecossistemas transacionais assíncronos.
+Minha vivência prática me permite traduzir necessidades reais, como o fluxo de almoxarifado e maquinário do setor de logística e agro, ou o rigor burocrático e processual do setor jurídico, em APIs modernas, ecossistemas multi-tenant e integrações de alta performance. Também possuo forte base em lógica de baixo nível, arquitetura de servidores de alta concorrência e ecossistemas transacionais assíncronos.
 
 ---
 
