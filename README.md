@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor focado em construir arquiteturas de software escaláveis, seguras e orientadas a regras de negócio complexas. Através do desenvolvimento aumentado por Inteligência Artificial (AI-Assisted Engineering), possuo a capacidade de projetar e entregar o ciclo de vida completo de aplicações de nível Enterprise em tempo recorde.
 
-Minha vivência prática me permite traduzir necessidades reais — como o fluxo de almoxarifado e maquinário do setor de logística e agro, ou o rigor burocrático e processual do setor jurídico — em APIs modernas, ecossistemas multi-tenant e integrações de alta performance. Também possuo forte base em lógica de baixo nível, arquitetura de servidores de alta concorrência e ecossistemas transacionais assíncronos.
+Minha vivência prática me permite traduzir necessidades reais, como o fluxo de almoxarifado e maquinário do setor de logística e agro, ou o rigor burocrático e processual do setor jurídico — em APIs modernas, ecossistemas multi-tenant e integrações de alta performance. Também possuo forte base em lógica de baixo nível, arquitetura de servidores de alta concorrência e ecossistemas transacionais assíncronos.
 
 ---
 
@@ -46,6 +46,7 @@ Minha vivência prática me permite traduzir necessidades reais — como o fluxo
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Banco de Dados & Infraestrutura**
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,6 +56,7 @@ Minha vivência prática me permite traduzir necessidades reais — como o fluxo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Frontend & Design**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -67,7 +69,7 @@ Minha vivência prática me permite traduzir necessidades reais — como o fluxo
   <img src="https://github-readme-stats.vercel.app/api?username=fc4code&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fc4code&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
 </div>
-
+  
 ---
 
 ### 📬 Como me encontrar
